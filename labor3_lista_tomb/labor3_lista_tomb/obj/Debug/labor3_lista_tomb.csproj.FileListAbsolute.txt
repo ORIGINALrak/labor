@@ -1,0 +1,8 @@
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\bin\Debug\labor3_lista_tomb.exe.config
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\bin\Debug\labor3_lista_tomb.exe
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\bin\Debug\labor3_lista_tomb.pdb
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\obj\Debug\labor3_lista_tomb.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\obj\Debug\labor3_lista_tomb.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\obj\Debug\labor3_lista_tomb.exe
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\obj\Debug\labor3_lista_tomb.pdb
+C:\Users\hallgato\Desktop\labor3_lista_tomb\labor3_lista_tomb\obj\Debug\labor3_lista_tomb.exe.config
