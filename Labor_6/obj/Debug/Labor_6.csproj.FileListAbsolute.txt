@@ -1,0 +1,8 @@
+C:\Users\hallgato\Desktop\Labor_6\bin\Debug\Labor_6.exe.config
+C:\Users\hallgato\Desktop\Labor_6\bin\Debug\Labor_6.exe
+C:\Users\hallgato\Desktop\Labor_6\bin\Debug\Labor_6.pdb
+C:\Users\hallgato\Desktop\Labor_6\obj\Debug\Labor_6.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\Labor_6\obj\Debug\Labor_6.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\Labor_6\obj\Debug\Labor_6.exe
+C:\Users\hallgato\Desktop\Labor_6\obj\Debug\Labor_6.pdb
+C:\Users\hallgato\Desktop\Labor_6\obj\Debug\Labor_6.exe.config
