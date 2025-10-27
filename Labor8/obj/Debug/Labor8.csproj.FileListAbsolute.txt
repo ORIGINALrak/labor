@@ -1,0 +1,7 @@
+C:\Users\hallgato\Desktop\Labor8\bin\Debug\Labor8.exe.config
+C:\Users\hallgato\Desktop\Labor8\bin\Debug\Labor8.exe
+C:\Users\hallgato\Desktop\Labor8\bin\Debug\Labor8.pdb
+C:\Users\hallgato\Desktop\Labor8\obj\Debug\Labor8.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\Labor8\obj\Debug\Labor8.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\Labor8\obj\Debug\Labor8.exe
+C:\Users\hallgato\Desktop\Labor8\obj\Debug\Labor8.pdb
