@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|c:\\users\\rak\\documents\\github\\labor\\laborcs1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|c:\\users\\rak\\documents\\github\\labor\\laborcs1\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|solutionrelative:gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|c:\\users\\rak\\documents\\github\\labor\\laborcs1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|c:\\users\\rak\\documents\\github\\labor\\laborcs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|c:\\users\\rak\\documents\\github\\labor\\laborcs1\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A0FA34-28E1-472E-AA97-45D1EAA7EC30}|LaborCS.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:40:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:12:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\GameItem.cs",
+              "RelativeDocumentMoniker": "GameItem.cs",
+              "ToolTip": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\GameItem.cs",
+              "RelativeToolTip": "GameItem.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:25:50.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:20:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\rak\\Documents\\GitHub\\labor\\LaborCS1\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:12:21.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
