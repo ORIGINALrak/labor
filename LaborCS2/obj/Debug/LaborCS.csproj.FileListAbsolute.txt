@@ -1,0 +1,16 @@
+C:\Users\hallgato\Desktop\LaborCS\bin\Debug\LaborCS.exe.config
+C:\Users\hallgato\Desktop\LaborCS\bin\Debug\LaborCS.exe
+C:\Users\hallgato\Desktop\LaborCS\bin\Debug\LaborCS.pdb
+C:\Users\hallgato\Desktop\LaborCS\obj\Debug\LaborCS.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\LaborCS\obj\Debug\LaborCS.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\LaborCS\obj\Debug\LaborCS.exe
+C:\Users\hallgato\Desktop\LaborCS\obj\Debug\LaborCS.pdb
+C:\Users\hallgato\Desktop\LaborCS\obj\Debug\LaborCS.exe.config
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\bin\Debug\LaborCS.exe.config
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\bin\Debug\LaborCS.exe
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\bin\Debug\LaborCS.pdb
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\obj\Debug\LaborCS.csproj.AssemblyReference.cache
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\obj\Debug\LaborCS.exe.config
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\obj\Debug\LaborCS.csproj.CoreCompileInputs.cache
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\obj\Debug\LaborCS.exe
+C:\Users\rak\Documents\GitHub\labor\LaborCS1\obj\Debug\LaborCS.pdb
