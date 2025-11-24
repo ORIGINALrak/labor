@@ -1,0 +1,8 @@
+C:\Users\hallgato\Desktop\labor12\bin\Debug\labor12.exe.config
+C:\Users\hallgato\Desktop\labor12\bin\Debug\labor12.exe
+C:\Users\hallgato\Desktop\labor12\bin\Debug\labor12.pdb
+C:\Users\hallgato\Desktop\labor12\obj\Debug\labor12.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\labor12\obj\Debug\labor12.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\labor12\obj\Debug\labor12.exe
+C:\Users\hallgato\Desktop\labor12\obj\Debug\labor12.pdb
+C:\Users\hallgato\Desktop\labor12\obj\Debug\labor12.exe.config
